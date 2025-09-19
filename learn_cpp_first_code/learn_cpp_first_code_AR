@@ -1,0 +1,32 @@
+#include<iostream>
+#include<string>
+using namespace std;
+
+int main()
+{
+// نبدأ ادخال المتغيرات
+string name; // متغير الاسم
+int age; // متغير العمر
+char symbol; // متغير الحرف
+double energy; // متغير الطاقة
+bool Status=true; // حالة الحياة
+// الان نطلب ادخال المعلومات
+cout << "ادخل اسمك من فضلك " << endl;
+cin >> name;
+cout << "ادخل عمرك من فضلك" << endl;
+cin >> age;
+cout << "ادخل حرفك من فضلك" << endl;
+cin >> symbol;
+cout << "ادخل طاقتك من فضلك" << endl;
+cin >> energy;
+cout << "حدد حالتك من فضلك 1 من اجل الحياة 0 من اجل الموت" << endl;
+cin >> Status;
+cout << "Name :" << "\t" << name << endl;
+cout << "Age :" <<"\t" << age << endl;
+cout << "Symbol :" <<"\t" << symbol << endl;
+cout << "Energy :" <<"\t" << energy << endl;
+cout << "Status :" <<"\t" << Status << endl;
+return 0;
+
+}
+
