@@ -28,4 +28,14 @@ This program:
 
 ---
 
+## 📂 Code 4: Comparison & Logical Operations (`learn_cpp_fourth_code`)  
+This program:  
+- Asks the user for **age, energy, and level** 📊  
+- Uses **comparison operators** (≥, ≤) and **logical operators** (||) ⚖️  
+- Decides and prints messages depending on the conditions 🖥️  
+- Represents my **first practice with `if / else` statements** ✍️✅  
+- 📅 Date: *Tuesday, September 23*  
+
+---
+
 👉 Stay tuned! We’ll keep updating and improving all programs with every new upload.
