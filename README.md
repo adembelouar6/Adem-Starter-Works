@@ -41,7 +41,7 @@ This program:
 ## 📂 Code 5: Advanced Conditions (`learn_cpp_fifth_code`)  
 This program:  
 - Asks the user for **age, energy, and level** 📊  
-- Uses **nested `if` statements**, multiple `else if` blocks, and advanced condition checking 🧩  
+- Uses multiple `else if` blocks, and advanced condition checking 🧩  
 - Prints different messages depending on the player's stats 🎮  
 - Strengthens my practice with **conditional logic** 🔑  
 - 📅 Date: *Friday, September 26*  
