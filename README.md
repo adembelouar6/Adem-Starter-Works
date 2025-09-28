@@ -4,14 +4,14 @@ Each code snippet represents a small milestone in my learning journey 🚀.
 
 ---
 
-## 📂 Code 1: Basic Input/Output (`learn_cpp_first_code`)  
+## 📂 CODE 1: BASIC INPUT/OUTPUT (`learn_cpp_first_code`)  
 This program:  
 - Asks the user for basic personal information 👤  
 - Prints it back to the console 🖥️  
 
 ---
 
-## 📂 Code 2: Player Stats Tracker (`learn_cpp_second_code`)  
+## 📂 CODE 2: PLAYER STATS TRACKER (`learn_cpp_second_code`)  
 This program:  
 - Lets the user enter a player's name, age, energy, years spent, and energy consumed 🎮  
 - Calculates and shows updated age and remaining energy 🔢  
@@ -19,7 +19,7 @@ This program:
 
 ---
 
-## 📂 Code 3: Player Stats Adventure (`learn_cpp_third_code`)  
+## 📂 CODE 3: PLAYER STATS ADVENTURE (`learn_cpp_third_code`)  
 This program:  
 - Lets the user enter a player's name, level, health, mana, and score ⚔️  
 - Updates stats using arithmetic operations, increment/decrement, and shorthand operators 🔧  
@@ -28,7 +28,7 @@ This program:
 
 ---
 
-## 📂 Code 4: Comparison & Logical Operations (`learn_cpp_fourth_code`)  
+## 📂 CODE 4: COMPARISON & LOGICAL OPERATIONS (`learn_cpp_fourth_code`)  
 This program:  
 - Asks the user for **age, energy, and level** 📊  
 - Uses **comparison operators** (≥, ≤) and **logical operators** (||) ⚖️  
@@ -38,13 +38,23 @@ This program:
 
 ---
 
-## 📂 Code 5: Advanced Conditions (`learn_cpp_fifth_code`)  
+## 📂 CODE 5: ADVANCED CONDITIONS (`learn_cpp_fifth_code`)  
 This program:  
 - Asks the user for **age, energy, and level** 📊  
 - Uses multiple `else if` blocks, and advanced condition checking 🧩  
 - Prints different messages depending on the player's stats 🎮  
 - Strengthens my practice with **conditional logic** 🔑  
 - 📅 Date: *Friday, September 26*  
+
+---
+
+## 📂 EXTRA: SWITCH STATEMENT (`learn_cpp_fifth_code_extra`)  
+This extra file:  
+- Demonstrates the **switch statement** as a complement to conditional logic 🔀  
+- Allows selection between multiple options depending on a variable  
+- `case` checks specific values, `break` stops execution after a match, `default` works like `else`  
+- Strengthens practice with **decision-making structures** 🧩  
+- 📅 Date: *Sunday, September 28*  
 
 ---
 
