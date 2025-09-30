@@ -58,4 +58,18 @@ This extra file:
 
 ---
 
+## 📂 CODE 6: AFRICANA TRAINING CAMP (`learn_cpp_sixth_code`)  
+This program:  
+- Asks the user for the **total number of players** 🎮  
+- Uses a **for loop** to read each player's **name, age, energy, and level** 📝  
+- Applies **conditions**:  
+  - If player is under 18 → ❌ not allowed  
+  - If age ≥ 18, energy ≥ 50, and level > 5 → ✅ ready for Africana  
+  - Otherwise → needs more training  
+- Tracks and displays the **player count** after each entry 🔢  
+- Represents my **first real practice with loops + conditions combined** ✍️💪  
+- 📅 Date: *Tuesday, September 30*  
+
+---
+
 👉 Stay tuned! We’ll keep updating and improving all programs with every new upload.
