@@ -4,23 +4,20 @@ Each code snippet represents a small milestone in my learning journey 🚀.
 
 ---
 
-## 📂 CODE 1: BASIC INPUT/OUTPUT (`learn_cpp_first_code`)  
-This program:  
+# 📂 CODE 1: BASIC INPUT/OUTPUT (`learn_cpp_first_code`)  
 - Asks the user for basic personal information 👤  
 - Prints it back to the console 🖥️  
 
 ---
 
-## 📂 CODE 2: PLAYER STATS TRACKER (`learn_cpp_second_code`)  
-This program:  
+# 📂 CODE 2: PLAYER STATS TRACKER (`learn_cpp_second_code`)  
 - Lets the user enter a player's name, age, energy, years spent, and energy consumed 🎮  
 - Calculates and shows updated age and remaining energy 🔢  
 - Prints all player stats nicely in the console 🖥️  
 
 ---
 
-## 📂 CODE 3: PLAYER STATS ADVENTURE (`learn_cpp_third_code`)  
-This program:  
+# 📂 CODE 3: PLAYER STATS ADVENTURE (`learn_cpp_third_code`)  
 - Lets the user enter a player's name, level, health, mana, and score ⚔️  
 - Updates stats using arithmetic operations, increment/decrement, and shorthand operators 🔧  
 - Calculates a small bonus using modulus `%` 🎁  
@@ -28,8 +25,7 @@ This program:
 
 ---
 
-## 📂 CODE 4: COMPARISON & LOGICAL OPERATIONS (`learn_cpp_fourth_code`)  
-This program:  
+# 📂 CODE 4: COMPARISON & LOGICAL OPERATIONS (`learn_cpp_fourth_code`)  
 - Asks the user for **age, energy, and level** 📊  
 - Uses **comparison operators** (≥, ≤) and **logical operators** (||) ⚖️  
 - Decides and prints messages depending on the conditions 🖥️  
@@ -38,8 +34,7 @@ This program:
 
 ---
 
-## 📂 CODE 5: ADVANCED CONDITIONS (`learn_cpp_fifth_code`)  
-This program:  
+# 📂 CODE 5: ADVANCED CONDITIONS (`learn_cpp_fifth_code`)  
 - Asks the user for **age, energy, and level** 📊  
 - Uses multiple `else if` blocks, and advanced condition checking 🧩  
 - Prints different messages depending on the player's stats 🎮  
@@ -48,8 +43,7 @@ This program:
 
 ---
 
-## 📂 EXTRA: SWITCH STATEMENT (`learn_cpp_fifth_code_extra`)  
-This extra file:  
+# 📂 EXTRA: SWITCH STATEMENT (`learn_cpp_fifth_code_extra`)  
 - Demonstrates the **switch statement** as a complement to conditional logic 🔀  
 - Allows selection between multiple options depending on a variable  
 - `case` checks specific values, `break` stops execution after a match, `default` works like `else`  
@@ -58,8 +52,7 @@ This extra file:
 
 ---
 
-## 📂 CODE 6: AFRICANA TRAINING CAMP (`learn_cpp_sixth_code`)  
-This program:  
+# 📂 CODE 6: AFRICANA TRAINING CAMP (`learn_cpp_sixth_code`)  
 - Asks the user for the **total number of players** 🎮  
 - Uses a **for loop** to read each player's **name, age, energy, and level** 📝  
 - Applies **conditions**:  
@@ -69,6 +62,15 @@ This program:
 - Tracks and displays the **player count** after each entry 🔢  
 - Represents my **first real practice with loops + conditions combined** ✍️💪  
 - 📅 Date: *Tuesday, September 30*  
+
+---
+
+# 📂 CODE 7: WHILE & DO-WHILE LOOPS (`learn_cpp_seventh_code_while.cpp` + `learn_cpp_seventh_code_do_while.cpp`)  
+- Shows the difference between **while** and **do-while** loops 🔄  
+- While loop checks the condition **before entering**  
+- Do-while loop executes the body **at least once** before checking  
+- Strengthens my understanding of loop flow and user interaction 🖥️  
+- 📅 Date: *Friday, October 3*  
 
 ---
 
